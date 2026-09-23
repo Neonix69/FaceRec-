@@ -1,0 +1,10 @@
+insightface
+opencv-python
+customtkinter
+pillow
+numpy
+onnxruntime
+
+# Optional: enables drag-and-drop image loading in the GUI.
+# App runs fine without it (falls back to the file picker).
+# tkinterdnd2
